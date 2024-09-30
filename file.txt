@@ -1,0 +1,43 @@
+roadmapper/
+├── node_modules/
+├── public/
+│   ├── index.html
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── Header.jsx
+│   │   ├── Footer.jsx
+│   │   ├── RoadmapCard.jsx
+│   │   ├── LoadingSpinner.jsx
+│   │   └── ErrorBoundary.jsx
+│   ├── context/
+│   │   ├── RoadmapContext.jsx
+│   ├── hooks/
+│   │   ├── useFetchRoadmaps.jsx
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── RoadmapPage.jsx
+│   │   ├── About.jsx
+│   │   ├── Contact.jsx
+│   │   ├── PrivacyPolicy.jsx
+│   │   ├── TermsOfService.jsx
+│   │   ├── courses/
+│   │   │   ├── Frontend.jsx
+│   │   │   ├── Backend.jsx
+│   │   │   ├── DevOps.jsx
+│   │   │   ├── DataScience.jsx
+│   │   │   ├── AIEngineer.jsx
+│   │   │   ├── CyberSecurity.jsx
+│   │   │   └── ...
+│   ├── data/
+│   │   ├── roadmaps.json
+│   ├── App.jsx
+│   ├── index.css
+│   ├── main.jsx
+├── index.html
+├── postcss.config.js
+├── tailwind.config.js
+├── vite.config.js
+├── eslint.config.js
+├── package.json
+└── README.md

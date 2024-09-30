@@ -1,0 +1,26 @@
+[
+  {
+    "id": "frontend",
+    "title": "Frontend Developer",
+    "description": "Learn the skills needed to become a Frontend Developer.",
+    "details": "Detailed roadmap content for Frontend Development."
+  },
+  {
+    "id": "backend",
+    "title": "Backend Developer",
+    "description": "Master the technologies for Backend Development.",
+    "details": "Detailed roadmap content for Backend Development."
+  },
+  {
+    "id": "devops",
+    "title": "DevOps Engineer",
+    "description": "Understand the principles of DevOps.",
+    "details": "Detailed roadmap content for DevOps."
+  },
+  {
+    "id": "datascience",
+    "title": "Data Scientist",
+    "description": "Become proficient in Data Science.",
+    "details": "Detailed roadmap content for Data Science."
+  }
+]
